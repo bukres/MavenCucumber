@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="7" time="146.281792">
+<testcase classname="Data Driven Testing of Newtours" name="DDF login funcionality positive test" time="24.006575">
+<system-out><![CDATA[Given I enter username as "earth"...........................................passed
+When I enter password as "earth"............................................passed
+When I click on login button................................................passed
+Then You should see the SIGN-OFF text.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Data Driven Testing of Newtours" name="DDF login funcionality positive test 2" time="21.575383">
+<system-out><![CDATA[Given I enter username as "jupiter".........................................passed
+When I enter password as "jupiter"..........................................passed
+When I click on login button................................................passed
+Then You should see the SIGN-OFF text.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Data Driven Testing of Newtours" name="DDF login funcionality positive test 3" time="18.138955">
+<system-out><![CDATA[Given I enter username as "mercury".........................................passed
+When I enter password as "mercury"..........................................passed
+When I click on login button................................................passed
+Then You should see the SIGN-OFF text.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Data Driven Testing of Newtours" name="DDF login funcionality positive test 4" time="21.516236">
+<system-out><![CDATA[Given I enter username as "saturn"..........................................passed
+When I enter password as "saturn"...........................................passed
+When I click on login button................................................passed
+Then You should see the SIGN-OFF text.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Data Driven Testing of Newtours" name="DDF login funcionality positive test 5" time="21.28311">
+<system-out><![CDATA[Given I enter username as "uranus"..........................................passed
+When I enter password as "uranus"...........................................passed
+When I click on login button................................................passed
+Then You should see the SIGN-OFF text.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Data Driven Testing of Newtours" name="DDF login funcionality positive test 6" time="21.99995">
+<system-out><![CDATA[Given I enter username as "mars"............................................passed
+When I enter password as "mars".............................................passed
+When I click on login button................................................passed
+Then You should see the SIGN-OFF text.......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Data Driven Testing of Newtours" name="DDF login funcionality positive test 7" time="17.761583">
+<system-out><![CDATA[Given I enter username as "venus"...........................................passed
+When I enter password as "venus"............................................passed
+When I click on login button................................................passed
+Then You should see the SIGN-OFF text.......................................passed
+]]></system-out>
+</testcase>
+</testsuite>

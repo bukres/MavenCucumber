@@ -1,0 +1,698 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12314454600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "NewToursLogin.callingPreConditions()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "DDF login funcionality positive test",
+        "description": "",
+        "id": "data-driven-testing-of-newtours;ddf-login-funcionality-positive-test;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 4554831000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "NewToursLogin.callingAfterConditions()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 666155300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter username as \"earth\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "earth",
+                  "offset": 21
+                }
+              ],
+              "location": "NewToursLogin.i_enter_username_as(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 617757400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I enter password as \"earth\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "earth",
+                  "offset": 21
+                }
+              ],
+              "location": "NewToursLogin.i_enter_password_as(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5748414400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on login button",
+            "match": {
+              "location": "NewToursLogin.i_click_on_login_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 104962600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "You should see the SIGN-OFF text",
+            "match": {
+              "location": "NewToursLogin.you_should_see_the_logo()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 10698679000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "NewToursLogin.callingPreConditions()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "DDF login funcionality positive test",
+        "description": "",
+        "id": "data-driven-testing-of-newtours;ddf-login-funcionality-positive-test;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 4332795200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "NewToursLogin.callingAfterConditions()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 665497500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter username as \"jupiter\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "jupiter",
+                  "offset": 21
+                }
+              ],
+              "location": "NewToursLogin.i_enter_username_as(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 633435300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I enter password as \"jupiter\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "jupiter",
+                  "offset": 21
+                }
+              ],
+              "location": "NewToursLogin.i_enter_password_as(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5174814900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on login button",
+            "match": {
+              "location": "NewToursLogin.i_click_on_login_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 70161100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "You should see the SIGN-OFF text",
+            "match": {
+              "location": "NewToursLogin.you_should_see_the_logo()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 10886354900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "NewToursLogin.callingPreConditions()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "DDF login funcionality positive test",
+        "description": "",
+        "id": "data-driven-testing-of-newtours;ddf-login-funcionality-positive-test;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 1397942100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "NewToursLogin.callingAfterConditions()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 200014500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter username as \"mercury\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "mercury",
+                  "offset": 21
+                }
+              ],
+              "location": "NewToursLogin.i_enter_username_as(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 332800100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I enter password as \"mercury\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "mercury",
+                  "offset": 21
+                }
+              ],
+              "location": "NewToursLogin.i_enter_password_as(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5056387800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on login button",
+            "match": {
+              "location": "NewToursLogin.i_click_on_login_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 265455600,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "You should see the SIGN-OFF text",
+            "match": {
+              "location": "NewToursLogin.you_should_see_the_logo()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 10818580200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "NewToursLogin.callingPreConditions()"
+            }
+          }
+        ],
+        "line": 16,
+        "name": "DDF login funcionality positive test",
+        "description": "",
+        "id": "data-driven-testing-of-newtours;ddf-login-funcionality-positive-test;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 4929625300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "NewToursLogin.callingAfterConditions()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 264028000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter username as \"saturn\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "saturn",
+                  "offset": 21
+                }
+              ],
+              "location": "NewToursLogin.i_enter_username_as(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 206459400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I enter password as \"saturn\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "saturn",
+                  "offset": 21
+                }
+              ],
+              "location": "NewToursLogin.i_enter_password_as(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5144767700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on login button",
+            "match": {
+              "location": "NewToursLogin.i_click_on_login_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 152775300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "You should see the SIGN-OFF text",
+            "match": {
+              "location": "NewToursLogin.you_should_see_the_logo()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 10674507500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "NewToursLogin.callingPreConditions()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "DDF login funcionality positive test",
+        "description": "",
+        "id": "data-driven-testing-of-newtours;ddf-login-funcionality-positive-test;;6",
+        "after": [
+          {
+            "result": {
+              "duration": 4789030000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "NewToursLogin.callingAfterConditions()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 292548500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter username as \"uranus\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "uranus",
+                  "offset": 21
+                }
+              ],
+              "location": "NewToursLogin.i_enter_username_as(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 261548500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I enter password as \"uranus\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "uranus",
+                  "offset": 21
+                }
+              ],
+              "location": "NewToursLogin.i_enter_password_as(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5082874900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on login button",
+            "match": {
+              "location": "NewToursLogin.i_click_on_login_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 182600300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "You should see the SIGN-OFF text",
+            "match": {
+              "location": "NewToursLogin.you_should_see_the_logo()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 10462867200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "NewToursLogin.callingPreConditions()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "DDF login funcionality positive test",
+        "description": "",
+        "id": "data-driven-testing-of-newtours;ddf-login-funcionality-positive-test;;7",
+        "after": [
+          {
+            "result": {
+              "duration": 4861309300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "NewToursLogin.callingAfterConditions()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 611125100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter username as \"mars\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "mars",
+                  "offset": 21
+                }
+              ],
+              "location": "NewToursLogin.i_enter_username_as(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 641598000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I enter password as \"mars\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "mars",
+                  "offset": 21
+                }
+              ],
+              "location": "NewToursLogin.i_enter_password_as(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5238090400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on login button",
+            "match": {
+              "location": "NewToursLogin.i_click_on_login_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 184959800,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "You should see the SIGN-OFF text",
+            "match": {
+              "location": "NewToursLogin.you_should_see_the_logo()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 10825994600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "NewToursLogin.callingPreConditions()"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "DDF login funcionality positive test",
+        "description": "",
+        "id": "data-driven-testing-of-newtours;ddf-login-funcionality-positive-test;;8",
+        "after": [
+          {
+            "result": {
+              "duration": 748451600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "NewToursLogin.callingAfterConditions()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 281368600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I enter username as \"venus\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "venus",
+                  "offset": 21
+                }
+              ],
+              "location": "NewToursLogin.i_enter_username_as(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 191379900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I enter password as \"venus\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "venus",
+                  "offset": 21
+                }
+              ],
+              "location": "NewToursLogin.i_enter_password_as(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5630750200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on login button",
+            "match": {
+              "location": "NewToursLogin.i_click_on_login_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 83638300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "You should see the SIGN-OFF text",
+            "match": {
+              "location": "NewToursLogin.you_should_see_the_logo()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Data Driven Testing of Newtours",
+    "description": "",
+    "id": "data-driven-testing-of-newtours",
+    "keyword": "Feature",
+    "uri": "NewToursDemo.feature"
+  }
+]

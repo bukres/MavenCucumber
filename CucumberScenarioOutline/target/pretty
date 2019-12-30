@@ -1,0 +1,51 @@
+Feature: Data Driven Testing of Newtours
+
+  Scenario Outline: DDF login funcionality positive test # NewToursDemo.feature:5
+    Given I enter username as "<userName>"
+    When I enter password as "<password>"
+    When I click on login button
+    Then You should see the SIGN-OFF text
+
+    Examples: 
+
+  Scenario Outline: DDF login funcionality positive test # NewToursDemo.feature:13
+    Given I enter username as "earth"                    # NewToursLogin.i_enter_username_as(String)
+    When I enter password as "earth"                     # NewToursLogin.i_enter_password_as(String)
+    When I click on login button                         # NewToursLogin.i_click_on_login_button()
+    Then You should see the SIGN-OFF text                # NewToursLogin.you_should_see_the_logo()
+
+  Scenario Outline: DDF login funcionality positive test # NewToursDemo.feature:14
+    Given I enter username as "jupiter"                  # NewToursLogin.i_enter_username_as(String)
+    When I enter password as "jupiter"                   # NewToursLogin.i_enter_password_as(String)
+    When I click on login button                         # NewToursLogin.i_click_on_login_button()
+    Then You should see the SIGN-OFF text                # NewToursLogin.you_should_see_the_logo()
+
+  Scenario Outline: DDF login funcionality positive test # NewToursDemo.feature:15
+    Given I enter username as "mercury"                  # NewToursLogin.i_enter_username_as(String)
+    When I enter password as "mercury"                   # NewToursLogin.i_enter_password_as(String)
+    When I click on login button                         # NewToursLogin.i_click_on_login_button()
+    Then You should see the SIGN-OFF text                # NewToursLogin.you_should_see_the_logo()
+
+  Scenario Outline: DDF login funcionality positive test # NewToursDemo.feature:16
+    Given I enter username as "saturn"                   # NewToursLogin.i_enter_username_as(String)
+    When I enter password as "saturn"                    # NewToursLogin.i_enter_password_as(String)
+    When I click on login button                         # NewToursLogin.i_click_on_login_button()
+    Then You should see the SIGN-OFF text                # NewToursLogin.you_should_see_the_logo()
+
+  Scenario Outline: DDF login funcionality positive test # NewToursDemo.feature:17
+    Given I enter username as "uranus"                   # NewToursLogin.i_enter_username_as(String)
+    When I enter password as "uranus"                    # NewToursLogin.i_enter_password_as(String)
+    When I click on login button                         # NewToursLogin.i_click_on_login_button()
+    Then You should see the SIGN-OFF text                # NewToursLogin.you_should_see_the_logo()
+
+  Scenario Outline: DDF login funcionality positive test # NewToursDemo.feature:18
+    Given I enter username as "mars"                     # NewToursLogin.i_enter_username_as(String)
+    When I enter password as "mars"                      # NewToursLogin.i_enter_password_as(String)
+    When I click on login button                         # NewToursLogin.i_click_on_login_button()
+    Then You should see the SIGN-OFF text                # NewToursLogin.you_should_see_the_logo()
+
+  Scenario Outline: DDF login funcionality positive test # NewToursDemo.feature:19
+    Given I enter username as "venus"                    # NewToursLogin.i_enter_username_as(String)
+    When I enter password as "venus"                     # NewToursLogin.i_enter_password_as(String)
+    When I click on login button                         # NewToursLogin.i_click_on_login_button()
+    Then You should see the SIGN-OFF text                # NewToursLogin.you_should_see_the_logo()

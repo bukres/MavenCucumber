@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><testng-results failed="0" passed="7" skipped="0" total="7">
+<suite duration-ms="146278" name="cucumber.runtime.formatter.TestNGFormatter">
+<test duration-ms="146278" name="cucumber.runtime.formatter.TestNGFormatter">
+<class name="Data Driven Testing of Newtours">
+<test-method duration-ms="24006" finished-at="2019-12-29T12:51:40Z" name="DDF login funcionality positive test" started-at="2019-12-29T12:51:16Z" status="PASS"/>
+<test-method duration-ms="21575" finished-at="2019-12-29T12:52:01Z" name="DDF login funcionality positive test_2" started-at="2019-12-29T12:51:40Z" status="PASS"/>
+<test-method duration-ms="18138" finished-at="2019-12-29T12:52:19Z" name="DDF login funcionality positive test_3" started-at="2019-12-29T12:52:01Z" status="PASS"/>
+<test-method duration-ms="21516" finished-at="2019-12-29T12:52:41Z" name="DDF login funcionality positive test_4" started-at="2019-12-29T12:52:19Z" status="PASS"/>
+<test-method duration-ms="21283" finished-at="2019-12-29T12:53:02Z" name="DDF login funcionality positive test_5" started-at="2019-12-29T12:52:41Z" status="PASS"/>
+<test-method duration-ms="21999" finished-at="2019-12-29T12:53:24Z" name="DDF login funcionality positive test_6" started-at="2019-12-29T12:53:02Z" status="PASS"/>
+<test-method duration-ms="17761" finished-at="2019-12-29T12:53:42Z" name="DDF login funcionality positive test_7" started-at="2019-12-29T12:53:24Z" status="PASS"/>
+</class>
+</test>
+</suite>
+</testng-results>
